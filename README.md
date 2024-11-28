@@ -40,6 +40,7 @@ A straightforward way to connect, including my email, social media links, and a 
 
 ### [Download CV Button]
 Allows visitors to download my most up-to-date CV for further review of my experience and skills.
+[Oeu_Lina.pdf]
 
 ---
 
